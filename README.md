@@ -20,7 +20,7 @@ based on compatibility
    * foursquare would help students and industry professionals set up meetings/outings with each
 other easier and more efficiently
 
-3.	Here is one API from the list (with attached screenshot of web page):
+3.	Here is one API from the list:
  * LinkedIn
    * I wanted to use this API to allow a member to click a button to sign in with their 
 LinkedIn account, then be redirected back to the homepage
