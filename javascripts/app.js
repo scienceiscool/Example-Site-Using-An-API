@@ -1,11 +1,12 @@
 var main = function () {
   "use strict";
 
-  var url = "https://api.linkedin.com/v1/people/~?format=json"
+  //var url = "http://platform.linkedin.com/in.js"
 
-  $.getJSON(url, function (linkedInResponse) {
-    console.log(linkedInResponse);
-  });
+  //$.getJSON(url, function (linkedInResponse) {
+  //   console.log(linkedInResponse);
+  //});
+  console.log("Hi. Testing 1, 2, 3.");
 
 };
 
