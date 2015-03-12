@@ -12,8 +12,7 @@ different topics. Members can find and contact other members who favorited simil
 API’s functionality might be used:
  * LinkedIn
    * Our project’s members can sign in using their LinkedIn account
-   * We can pull background info and other work- and experience-related information that would
-help in matching students and potential mentors
+   * We can pull background info and other work- and experience-related information that would help in matching students and potential mentors
  * Facebook Graph
    * Using this API, we can track members’ likes and dislikes so that the application can match
 based on compatibility
