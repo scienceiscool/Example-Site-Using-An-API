@@ -1,4 +1,4 @@
-__ # Homework 4__
+# Homework 4
 
 In this homework assignment, I completed the exercise on page 180 of Chapter 5, “Other APIs,”
 by researching third-party Web Service APIs that might be incorporated into Project 1.
