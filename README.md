@@ -10,19 +10,19 @@ different topics. Members can find and contact other members who favorited simil
 
 2.	A list of APIs that could be useful for our project and brief descriptions of how each
 API’s functionality might be used:
-* LinkedIn
+ * LinkedIn
   * Our project’s members can sign in using their LinkedIn account
   * We can pull background info and other work- and experience-related information that would
 help in matching students and potential mentors
-* Facebook Graph
+ * Facebook Graph
   * Using this API, we can track members’ likes and dislikes so that the application can match
 based on compatibility
-* foursquare
+ * foursquare
   * foursquare would help students and industry professionals set up meetings/outings with each
 other easier and more efficiently
 
 3.	Here is one API from the list (with attached screenshot of web page):
-* LinkedIn
+ * LinkedIn
   * I wanted to use this API to allow a member to click a button to sign in with their 
 LinkedIn account, then be redirected back to the homepage
 
