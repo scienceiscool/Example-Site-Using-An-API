@@ -1,6 +1,6 @@
-# CPSC 473 - Web Programming & Data Management
-## Homework 4
-### Page 180 of Semmy Purewal's Learning Web App Development
+#CPSC 473 - Web Programming & Data Management
+##Homework 4
+###Page 180 of Semmy Purewal's Learning Web App Development
 
 In this homework assignment, I completed the exercise on page 180 of Chapter 5, “Other APIs,”
 by researching third-party Web Service APIs that might be incorporated into Project 1.
